@@ -1,0 +1,44 @@
+.topContainer {
+    background-color: rgb(240, 58, 38);
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    height: 400px;
+}
+
+.welcomeMessage {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-family:fantasy;
+    font-size: 75px;
+
+}
+
+body {
+    margin: 0%;
+}
+
+.skull-text {
+    margin-top: 20px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 30px;
+}
+
+.skull {
+    display: block;
+    height: 230px;
+    width: 230px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.burnout {
+    border: 5px solid #555;
+    margin-left: 40px;
+    margin-top: 50px;
+    width: 350px;
+    height: 350px;
+}
